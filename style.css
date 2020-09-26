@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+table {
+    display: inline;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+    border: solid 1px lightgray;
+}
+
+.button-section {
+    margin-bottom: 30px;
+}
